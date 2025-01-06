@@ -23,5 +23,5 @@ Este é um projeto de uma galeria de fotos com busca em tempo real, filtragem e 
 Para rodar o projeto localmente, você precisa primeiro clonar este repositório. No terminal, execute o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+https://github.com/marconisena/galeria_de_fotos
 
